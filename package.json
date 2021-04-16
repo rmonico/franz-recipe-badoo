@@ -1,0 +1,14 @@
+{
+  "id": "badoo",
+  "name": "Badoo",
+  "version": "1.0.0",
+  "description": "Badoo",
+  "main": "index.js",
+  "author": "Rafael Monico <rmonico1@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://badoo.com",
+    "hasNotificationSound": true,
+    "disablewebsecurity": true
+  }
+}
